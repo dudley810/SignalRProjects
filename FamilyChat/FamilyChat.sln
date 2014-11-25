@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyChat", "FamilyChat\FamilyChat.csproj", "{3B31EC0E-77F4-482E-853C-BF78A2E6538A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3B31EC0E-77F4-482E-853C-BF78A2E6538A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3B31EC0E-77F4-482E-853C-BF78A2E6538A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3B31EC0E-77F4-482E-853C-BF78A2E6538A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3B31EC0E-77F4-482E-853C-BF78A2E6538A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
